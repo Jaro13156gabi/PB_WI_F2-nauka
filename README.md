@@ -1,3 +1,3 @@
-# PB_WI_PS2-nauka
+# PB_WI_F2-nauka
 mój GIT
-Jestem cooooool
+sem 2
